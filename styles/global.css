@@ -1,0 +1,45 @@
+html {
+    width: 100%;
+    height: 100%;
+}
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header-title{
+    font-family: lato-light, lato, sans-serif;
+    font-size: 28px;
+    color: #150c3f;
+}
+
+.header-menu{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: lato-light, lato, sans-serif;
+    font-size: 14px;
+    color: #150c3f;
+}
+
+.menu-buttons{
+    justify-self: center;
+}
+
+.img-container{
+    width: 100%;
+}
+
+.header-img{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
