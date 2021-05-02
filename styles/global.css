@@ -59,7 +59,7 @@ input {
   background-size: cover;
 }
 
-.my-skills-header {
+.section-header {
   text-align: center;
   font-family: lato-light, lato, sans-serif;
   font-size: 40px;
@@ -132,4 +132,13 @@ input[type=submit] {
 .footer-contacts-image {
   margin: 0 10px;
   text-decoration: none;
+}
+
+.projects-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.project {
+  flex: 1;
 }
