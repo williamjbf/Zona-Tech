@@ -120,6 +120,15 @@ input[type=submit] {
   margin: 40px 0;
 }
 
+.footer-credits {
+  text-align: center;
+  font-family: lato-light, lato, sans-serif;
+  font-size: 14px;
+  color: #150c3f;
+  padding-bottom: 5%;
+  font-weight: normal;
+}
+
 .footer-contacts-image {
   margin: 0 10px;
   text-decoration: none;
