@@ -115,3 +115,12 @@ input[type=submit] {
   font-size: 16px;
   border-radius: 2px;
 }
+
+.footer-contacts {
+  margin: 40px 0;
+}
+
+.footer-contacts-image {
+  margin: 0 10px;
+  text-decoration: none;
+}
