@@ -59,7 +59,7 @@ input {
   background-size: cover;
 }
 
-.section-header {
+.section-header{
   text-align: center;
   font-family: lato-light, lato, sans-serif;
   font-size: 40px;
@@ -80,6 +80,9 @@ input {
   color: #150c3f;
 }
 
+.my-skills-img{
+  object-fit: cover;
+}
 .my-skills-title {
   color: #536afd;
 }
@@ -141,4 +144,19 @@ input[type=submit] {
 
 .project {
   flex: 1;
+}
+
+.address-container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.address{
+  text-align: center;
+  font-family: lato-light, lato, sans-serif;
+  font-size: 14px;
+  color: #150c3f;
+  padding-bottom: 5%;
+  font-weight: normal;
 }
