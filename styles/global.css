@@ -59,7 +59,7 @@ input {
   background-size: cover;
 }
 
-.section-header{
+.section-header {
   text-align: center;
   font-family: lato-light, lato, sans-serif;
   font-size: 40px;
@@ -80,9 +80,10 @@ input {
   color: #150c3f;
 }
 
-.my-skills-img{
+.my-skills-img {
   object-fit: cover;
 }
+
 .my-skills-title {
   color: #536afd;
 }
@@ -143,20 +144,62 @@ input[type=submit] {
 }
 
 .project {
+  display: flex;
   flex: 1;
+  height: 500px;
+  justify-content: center;
+  align-items: flex-end;
 }
 
-.address-container{
+.address-container {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
-.address{
+.address {
   text-align: center;
   font-family: lato-light, lato, sans-serif;
   font-size: 14px;
   color: #150c3f;
   padding-bottom: 5%;
+  font-weight: normal;
+}
+
+.recent-project {
+  display: flex;
+  background-color: #ffffff;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.8);
+  width: 100%;
+  height: 200px;
+}
+
+.know-more-button {
+  display: flex;
+  height: 40px;
+  width: 150px;
+  align-items: center;
+  justify-content: center;
+  font-family: lato-light, lato, sans-serif;
+  font-size: 14px;
+  background-color: #3a1dbe;
+  font-weight: normal;
+  border-radius: 3px;
+  margin-top: 30%;
+  margin-bottom: 15px;
+}
+
+.know-more-span {
+  color: #ffffff;
+}
+
+.know-more-title {
+  text-align: center;
+  font-family: lato-light, lato, sans-serif;
+  font-size: 18px;
+  color: #3a1dbe;
   font-weight: normal;
 }
