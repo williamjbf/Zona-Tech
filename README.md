@@ -5,6 +5,8 @@
 <p align= "center">Este projeto foi solicitado para a realização da avaliação final da materia de Gerengia de Congiguração e Mudança.
 A inspiração do site foi retirada de um modelo que criamos na plataforma gratuita [Wix](https://www.wix.com/).</p>
 
+<p aling= "center"> Acesse o site disponibilizado em [Zona-Tech](https://williamjbf.github.io/Zona-Tech/) <p>
+  
 ## Autores
 
 * **Adriel Higor Rodrigues Lins da Silva**
