@@ -4,3 +4,8 @@
 
 <p align= "center">Este projeto foi solicitado para a realização da avaliação final da materia de Gerengia de Congiguração e Mudança.
 A inspiração do site foi retirada de um modelo que criamos na plataforma gratuita [Wix](https://www.wix.com/).</p>
+
+## Autores
+
+* **Adriel Higor Rodrigues Lins da Silva**
+* **William Jefferson**
